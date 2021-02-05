@@ -6,6 +6,6 @@ if (!$conn) {
     die("Falha na Conexão" . mysqli_connect_error());
 }else {
     # code...
-    echo("Conexão Realizada com sucesso");
+   #  echo("Conexão Realizada com sucesso");
 }
 ?>
